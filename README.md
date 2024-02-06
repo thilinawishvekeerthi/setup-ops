@@ -49,5 +49,5 @@ Before running the script, ensure the following prerequisites are met:
 - If the test mode is set to REPORT, ensure that the `run.sh` script is set up in the project base directory to run tests.
 
 - The script installs Anaconda if not already installed, creates a Conda environment, installs project dependencies, and runs tests.
-- pre-commit is used to settup local git hooks.
+- Pre-commit is used to settup local git hooks.
 - Git hooks are configured using the .pre-commit-config.yaml file provided with the script.
