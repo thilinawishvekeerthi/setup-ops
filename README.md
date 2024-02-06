@@ -50,4 +50,4 @@ Before running the script, ensure the following prerequisites are met:
 
 - The script installs Anaconda if not already installed, creates a Conda environment, installs project dependencies, and runs tests.
 - pre-commit is used to settup local git hooks.
-- Git hooks are configured using the .pre-commit-config.yaml file. this will be the common config file on git hooks.
+- Git hooks are configured using the .pre-commit-config.yaml file provided with the script.
