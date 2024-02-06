@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Bash script automates the process of initializing a project, creating and activating a Conda environment, installing dependencies, setup git hooks, set up git workflow and running tests. It supports various options and configurations to tailor the setup to your project's needs.
+This Bash script automates the process of initializing a project, creating and activating a Conda environment, installing dependencies, setingup git hooks, git workflow and running tests. It supports various options and configurations to tailor the setup to your project's needs.
 
 ## Prerequisites
 
